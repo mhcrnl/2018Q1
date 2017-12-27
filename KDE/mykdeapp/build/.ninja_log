@@ -1,0 +1,5 @@
+# ninja log v5
+21	1510	1514367717	mykdeapp.moc	6173a9f8feb5d239
+1511	10735	1514367726	CMakeFiles/mykdeapp.dir/mykdeapp.cpp.o	b22175f7cb5e5d6c
+1510	11175	1514367726	CMakeFiles/mykdeapp.dir/main.cpp.o	5f84272e79e3c53
+11175	14229	1514367730	mykdeapp	32c7faafb86cbdf8

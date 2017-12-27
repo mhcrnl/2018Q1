@@ -1,0 +1,38 @@
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x01\x00\x00\x00\x10\x00m\x00y\x00k\x00d\x00e\x00a\x00p\x00p)
+
+[CMake]
+Build Directory Count=1
+Current Build Directory Index=0
+
+[CMake][CMake Build Directory 0]
+Build Directory Path=/home/mhcrnl/2018Q1/KDE/mykdeapp/build
+Build Type=Debug
+CMake Binary=/usr/bin/cmake
+Environment Profile=
+Extra Arguments=
+Install Directory=
+
+[Launch]
+Launch Configurations=Launch Configuration 0
+
+[Launch][Launch Configuration 0]
+Configured Launch Modes=execute
+Configured Launchers=nativeAppLauncher
+Name=mykdeapp
+Type=Native Application
+
+[Launch][Launch Configuration 0][Data]
+Arguments=
+Dependencies=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x02\x00\x00\x00\x10\x00m\x00y\x00k\x00d\x00e\x00a\x00p\x00p\x00\x00\x00\x10\x00m\x00y\x00k\x00d\x00e\x00a\x00p\x00p)
+Dependency Action=Build
+EnvironmentGroup=
+Executable=file:///home/mhcrnl/2018Q1/KDE/mykdeapp
+External Terminal=konsole --noclose --workdir %workdir -e %exe
+Project Target=mykdeapp,mykdeapp
+Use External Terminal=false
+Working Directory=
+isExecutable=false
+
+[Project]
+VersionControlSupport=

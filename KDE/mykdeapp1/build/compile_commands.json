@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/mhcrnl/2018Q1/KDE/mykdeapp1/build",
+  "command": "/usr/lib64/ccache/c++    -g   -o CMakeFiles/mykdeapp1.dir/main.cpp.o -c /home/mhcrnl/2018Q1/KDE/mykdeapp1/main.cpp",
+  "file": "/home/mhcrnl/2018Q1/KDE/mykdeapp1/main.cpp"
+}
+]
