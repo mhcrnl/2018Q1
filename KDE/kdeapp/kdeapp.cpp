@@ -1,11 +1,11 @@
-#include "mykdeapp.h"
+#include "kdeapp.h"
 
 #include <QLabel>
 #include <QMenu>
 #include <QMenuBar>
 #include <QAction>
 
-mykdeapp::mykdeapp()
+kdeapp::kdeapp()
 {
     QLabel* label = new QLabel( this );
     label->setText( "Hello World!" );
@@ -14,10 +14,9 @@ mykdeapp::mykdeapp()
     action->setText( "Quit" );
     connect(action, SIGNAL(triggered()), SLOT(close()) );
     menuBar()->addMenu( "File" )->addAction( action );
-    menuBar()->addMenu( "Open" )->addAction( action );
 }
 
-mykdeapp::~mykdeapp()
+kdeapp::~kdeapp()
 {}
 
-#include "mykdeapp.moc"
+#include "kdeapp.moc"

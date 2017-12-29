@@ -1,19 +1,37 @@
-#KDE
+# KDE
 
 [KDE](https://www.kde.org/) este un mediu desktop gratuit pentru sisteme compatibile Unix. Ținta proiectului este de a oferi o interfață completă, usor de utilizat, și ușor de adaptat nevoilor personale ale fiecărui utilizator.
 
-##Development Tools
-###Qt Creator
+## Development Tools
 
-###KDevelop
+### Qt Creator
+
+```bash
+$ sudo dnf install qt-devel
+$ sudo dnf install qt-creator
+$ qtcreator
+```
+
+### KDevelop
+
 IDE pentru C, C++, Python, QML/JavaScript si PHP
-##Core Tools
-###CMake
-###Git
-##Debugging and Analysis
-###Valgrind
-###The GNU Project Debugger(GDB)
-###KDbg si DDD
+
+```bash
+$ kdevelop
+```
+## Core Tools
+
+### CMake
+
+### Git
+
+## Debugging and Analysis
+
+### Valgrind
+
+### The GNU Project Debugger(GDB)
+
+### KDbg si DDD
 
 ## Synopsis
 

@@ -1,0 +1,5 @@
+# ninja log v5
+0	179	1514373591	salut.moc	391596e57a40db6
+180	6111	1514373597	CMakeFiles/salut.dir/salut.cpp.o	c277781d6761dc36
+181	6497	1514373597	CMakeFiles/salut.dir/main.cpp.o	e6dd7bf43d70081b
+6497	10566	1514373602	salut	5f2c6ac78de3728e

@@ -1,0 +1,7 @@
+/home/mhcrnl/2018Q1/KDE/salut/build/CMakeFiles/install/strip.dir
+/home/mhcrnl/2018Q1/KDE/salut/build/CMakeFiles/install/local.dir
+/home/mhcrnl/2018Q1/KDE/salut/build/CMakeFiles/edit_cache.dir
+/home/mhcrnl/2018Q1/KDE/salut/build/CMakeFiles/rebuild_cache.dir
+/home/mhcrnl/2018Q1/KDE/salut/build/CMakeFiles/install.dir
+/home/mhcrnl/2018Q1/KDE/salut/build/CMakeFiles/salut.dir
+/home/mhcrnl/2018Q1/KDE/salut/build/CMakeFiles/list_install_components.dir

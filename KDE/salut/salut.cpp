@@ -1,23 +1,24 @@
-#include "mykdeapp.h"
+#include "salut.h"
 
 #include <QLabel>
 #include <QMenu>
 #include <QMenuBar>
 #include <QAction>
 
-mykdeapp::mykdeapp()
+#include <KAboutData>
+
+salut::salut()
 {
     QLabel* label = new QLabel( this );
-    label->setText( "Hello World!" );
+    label->setText( "SALUT!" );
     setCentralWidget( label );
     QAction* action = new QAction(this);
     action->setText( "Quit" );
     connect(action, SIGNAL(triggered()), SLOT(close()) );
     menuBar()->addMenu( "File" )->addAction( action );
-    menuBar()->addMenu( "Open" )->addAction( action );
 }
 
-mykdeapp::~mykdeapp()
+salut::~salut()
 {}
 
-#include "mykdeapp.moc"
+#include "salut.moc"

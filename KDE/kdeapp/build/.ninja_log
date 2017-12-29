@@ -1,0 +1,5 @@
+# ninja log v5
+0	259	1514399069	kdeapp.moc	b960a6e802f13160
+259	5747	1514399075	CMakeFiles/kdeapp.dir/kdeapp.cpp.o	c494e7c8feb1ae53
+265	5837	1514399074	CMakeFiles/kdeapp.dir/main.cpp.o	14f0473ca000cdda
+5837	8120	1514399077	kdeapp	9d7f536e00427b60
