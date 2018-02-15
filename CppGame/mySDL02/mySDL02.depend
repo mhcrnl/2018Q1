@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1518679526 source:/home/mhcrnl/2018Q1/CppGame/mySDL02/main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL2/SDL.h>
+
