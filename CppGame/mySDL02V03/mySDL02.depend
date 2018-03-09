@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1518679526 source:/home/mhcrnl/2018Q1/CppGame/mySDL02/main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL2/SDL.h>
+
+1518687637 source:/home/mhcrnl/2018Q1/CppGame/mySDL02V01/main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL2/SDL.h>
+
+1518694043 source:/home/mhcrnl/2018Q1/CppGame/mySDL02V02/main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL2/SDL.h>
+
