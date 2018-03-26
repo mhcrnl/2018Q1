@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1522054007 source:/home/mhcrnl/2018Q1/C++/CppSalut/main.cpp
+	<iostream>
+	<salut.h>
+
+1522054037 /home/mhcrnl/2018Q1/C++/CppSalut/include/salut.h
+
+1522054090 source:/home/mhcrnl/2018Q1/C++/CppSalut/src/salut.cpp
+	"salut.h"
+	<iostream>
+

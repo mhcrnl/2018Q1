@@ -1,8 +1,4 @@
-![imagine](img/img0.jpeg)
-
 ## Synopsis
-
-This project is a Chrome extension for the game tic_tac_toe and is install in browser.
 
 At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
 
